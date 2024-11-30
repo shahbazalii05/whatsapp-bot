@@ -9,7 +9,7 @@ export default function Home() {
       in inport use @ this <br/>
       use tailwind <br/>
       ue defaylt layout approch for side bar and hearers who are same 
-      create your seprate branches
+      create your seprate 
     </div>
     </>
   );
