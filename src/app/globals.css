@@ -1,3 +1,43 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* Font families */
+@font-face {
+    font-family: 'SegoeUI';
+    src: url('/fonts/segoe/segoeui.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DroidSerif';
+    src: url('/fonts/droid/DroidSerif-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'DroidSerif';
+    src: url('/fonts/droid/DroidSerif-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SFProDisplay';
+    src: url('/fonts/sf/SFPRODISPLAYBOLD.OTF') format('opentype');
+    font-weight:bold; 
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SFProDisplay';
+    src: url('/fonts/sf/SFPRODISPLAYMEDIUM.OTF') format('opentype');
+    font-weight:normal; 
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SFProDisplay';
+    src: url('/fonts/sf/SFPRODISPLAYREGULAR.OTF') format('opentype');
+    font-weight:normal; 
+    font-style: normal;
+}
